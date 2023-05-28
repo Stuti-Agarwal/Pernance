@@ -6,7 +6,7 @@ This Chatbot uses LangChain's conversation module with a pretrained model
 Do try it out.
 
 
-#NEXT STEPS
+# NEXT STEPS
 -Shifting to fully open source LLMS
 - Integrating Tools Like Wolfram Alpha for better math 
 - Fintuneing the model using indexing
