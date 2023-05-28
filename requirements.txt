@@ -1,0 +1,7 @@
+langchain
+openai
+pandas
+flask
+unstuctured
+chromadb
+tiktoken
